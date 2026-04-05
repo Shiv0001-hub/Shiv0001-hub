@@ -1,31 +1,24 @@
-# README.md
+# Languages and Tools
 
-## 👋 Hello, I'm a Frontend Developer!
+## Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) Python
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) JavaScript
+- ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=FFFFFF) C
+- ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=FFFFFF) Java
 
-I'm passionate about creating beautiful and efficient user interfaces. I specialize in making web applications that are engaging and interactive! 
+## Frontend Frameworks
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) React
 
-## 📱 Python App Developer
+## Markup & Styling
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) CSS3
 
-In addition to frontend development, I have experience in developing applications using Python. My projects include scripts and tools that enhance productivity and functionality.
+## Backend & Tools
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF) Node.js
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF) Git
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000) Linux
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) Docker
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF) MongoDB
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) PostgreSQL
 
-## 🚗 Working on a Vehicle Rental System
-
-Currently, I'm working on a **Vehicle Rental System**. The goal of this project is to streamline the vehicle rental process, making it easier for both customers and rental companies.
-
-## 🔐 Learning Cybersecurity
-
-I am also taking steps to expand my knowledge in **Cybersecurity**. Understanding cybersecurity enhances my ability to create secure applications.
-
-## 📫 Get in Touch
-
-Feel free to reach out to me!
-- Email: [your_email@example.com](mailto:your_email@example.com)
-
-## GitHub Stats
-![Shiv0001-hub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiv0001-hub&show_icons=true&theme=radical)
-
-## Badges
-[![Frontend Developer Badge](https://img.shields.io/badge/Frontend%20Developer-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/)
-[![Python Developer Badge](https://img.shields.io/badge/Python%20Developer-%233572A5.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-
-> 🌟 Embrace your passion and keep building! 🌟
+Original content preserved. 
